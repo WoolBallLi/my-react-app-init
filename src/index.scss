@@ -1,0 +1,4 @@
+@import '@/lib/reset.scss';
+body {
+  @include background-color(skyblue);
+}
