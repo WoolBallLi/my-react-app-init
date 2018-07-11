@@ -1,9 +1,9 @@
 # 须知
 
-1.已将react-script提取出
-2.已安装 scss fetch-jsonp react-router-dom@4 redux react-redux
-3.使用 @/ 来指定src下文件的绝对路径
-4.lib为css样式库，使用时引入reset，classes为其方法
+1.已将react-script提取出  
+2.已安装 scss fetch-jsonp react-router-dom@4 redux react-redux  
+3.使用 @/ 来指定src下文件的绝对路径  
+4.lib为css样式库，使用时引入reset，classes为其方法  
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
